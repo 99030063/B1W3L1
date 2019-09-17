@@ -1,2 +1,1 @@
-# b1w3-lab1
-lab van week 3
+# LAB3-Krantenartikel
